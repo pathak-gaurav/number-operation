@@ -1,0 +1,10 @@
+{
+    "status": "SUCCESS",
+    "results": {
+        "sum": 60.0,
+        "average": "20",
+        "greaterThanAverage": [
+            30.0
+        ]
+    }
+}
